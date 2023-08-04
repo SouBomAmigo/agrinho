@@ -87,7 +87,8 @@ body {
 }
 
 @media screen and (max-width: 768px) {
-  .container {
-      padding: 25px;
+  .botoes {
+      padding: 20px;
+      flex-direction: column;
   }
 }
