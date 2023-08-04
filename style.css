@@ -88,7 +88,11 @@ body {
 
 @media screen and (max-width: 768px) {
   .botoes {
-      padding: 200px;
+      padding: 20px;
       flex-direction: column;
   }
 }
+
+  .botoes li{
+    margin: 10px 0;
+  }
